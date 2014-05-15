@@ -11,3 +11,6 @@
     * [java版静态资源管理系统示例](https://github.com/fouber/fis-java-jsp)
 
 微博 [@前端农民工](http://www.weibo.com/fouber)
+
+
+![打赏一下](https://raw.githubusercontent.com/fouber/blog/master/assets/qrcode.png?v)
