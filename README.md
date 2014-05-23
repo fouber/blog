@@ -9,5 +9,7 @@
 * 示例项目
     * [php版静态资源管理系统示例](https://github.com/fouber/static-resource-management-system-demo)
     * [java版静态资源管理系统示例](https://github.com/fouber/fis-java-jsp)
+* 文章推荐
+    * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
 
 微博 [@前端农民工](http://www.weibo.com/fouber)
