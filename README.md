@@ -10,7 +10,7 @@
 * 示例项目
     * [php版静态资源管理系统示例](https://github.com/fouber/static-resource-management-system-demo)
     * [java版静态资源管理系统示例](https://github.com/fouber/fis-java-jsp)
-    * [模块化开发示例](https://github.com/fouber/fis-php-md.js)
+    * [静态资源管理+模块化开发示例](https://github.com/fouber/fis-php-md.js)
 * 文章推荐
     * [Facebook静态网页资源的管理和优化](http://v.youku.com/v_show/id_XMjI5OTUxMjE2.html) [[PDF](http://velocity.oreilly.com.cn/2010/ppts/VelocityChina2010Dec7StaticResource.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
     * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
