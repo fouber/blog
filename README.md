@@ -22,5 +22,6 @@
         * [可疑模块拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-2/)
         * [无懈可击的钩子](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-3/)
         * [天衣无缝的防护](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-4/)
+        * [整装待发](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-5)
 
 微博 [@前端农民工](http://www.weibo.com/fouber)
