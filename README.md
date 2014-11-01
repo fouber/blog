@@ -9,6 +9,7 @@
     * [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
     * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
     * [前端开发体与模块化框架](https://github.com/fouber/blog/issues/4)
+    * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 * 杂谈
    * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
 * 示例项目
