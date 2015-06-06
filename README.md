@@ -19,6 +19,11 @@
     * [静态资源缓存控制演示项目](https://github.com/fouber/static-resource-digest-project)
 * 文章推荐
     * [Facebook静态网页资源的管理和优化](http://v.youku.com/v_show/id_XMjI5OTUxMjE2.html) [[PDF](http://velocity.oreilly.com.cn/2010/ppts/VelocityChina2010Dec7StaticResource.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
+    * [Facebook移动互联网应用的性能优化](http://v.youku.com/v_show/id_XMzUwOTQzMzA4.html) [[PDF](http://velocity.oreilly.com.cn/2011/ppts/MobilePerformanceVelocity2011_DavidWei.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
+    * [PageSpeed Insights规则](https://developers.google.com/speed/docs/insights/rules?csw=1)
+    * [Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile)
+    * [Instant Mobile Websites: Techniques and Best Practices](https://developers.google.com/events/io/sessions/325128936)
+    * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
     * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
     * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html) by [@三水清](http://weibo.com/206103888)
     * 前端xss防火墙系列文章 by [@ＥtherＤream](https://github.com/zjcqoo)
