@@ -23,7 +23,9 @@
     * [Facebook移动互联网应用的性能优化](http://v.youku.com/v_show/id_XMzUwOTQzMzA4.html) [[PDF](http://velocity.oreilly.com.cn/2011/ppts/MobilePerformanceVelocity2011_DavidWei.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
     * [PageSpeed Insights规则](https://developers.google.com/speed/docs/insights/rules?csw=1)
     * [Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile)
-    * [Instant Mobile Websites: Techniques and Best Practices](https://developers.google.com/events/io/sessions/325128936)
+    * Optimizing the Critical Rendering Path for Instant Mobile Websites [[slides](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present?slide=id.p19),[video](https://www.youtube.com/watch?v=YV1nKLWoARQ)]
+    * Instant Mobile Websites: Techniques and Best Practices [[slides](http://storage.googleapis.com/io-2013/presentations/239-%20Instant%20Mobile%20Websites-%20Techniques%20and%20Best%20Practices.pdf), [video](https://www.youtube.com/watch?v=Bzw8-ZLpwtw)]
+    * [Critical Rendering Path (关键呈现路径)](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
     * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
     * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
     * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html) by [@三水清](http://weibo.com/206103888)
