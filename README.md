@@ -30,11 +30,8 @@
         * [整装待发](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-5)
 * 经典图书
     * 《[High Performance Web Sites](http://book.douban.com/subject/2084131/)》（[高性能网站建设指南](http://book.douban.com/subject/3132277/)）
-        * ![](./assets/hpws.png)
     * 《[Even Faster Web Sites](http://book.douban.com/subject/3686503/)》（[高性能网站建设进阶指南](http://book.douban.com/subject/4719162/)）
-        * ![](./assets/efws.png)
     * 《[High Performance Browser Networking](http://book.douban.com/subject/21866396/)》（[Web性能权威指南](http://book.douban.com/subject/25856314/)）
-        * ![](./assets/hpbn.png)
 * 经典文章
     * [Best Practices for Speeding Up Your Web Site（雅虎35条）](https://developer.yahoo.com/performance/rules.html)
     * [Facebook静态网页资源的管理和优化](http://v.youku.com/v_show/id_XMjI5OTUxMjE2.html) [[PDF](http://velocity.oreilly.com.cn/2010/ppts/VelocityChina2010Dec7StaticResource.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
