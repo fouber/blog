@@ -1,0 +1,67 @@
+<mockup version="1.0" skin="sketch" fontFace="圆体-简" measuredW="643" measuredH="492" mockupW="586" mockupH="431">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="125" y="255" w="44" h="34" measuredW="246" measuredH="177" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/layout_12.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="188" y="243" w="72" h="59" measuredW="246" measuredH="177" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/layout_13.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="277" y="222" w="136" h="100" measuredW="246" measuredH="177" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/layout_15.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="435" y="61" w="208" h="423" measuredW="208" measuredH="423" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="208" h="423" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <bgPattern>allWhite</bgPattern>
+            <model>IPhone4</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="22" y="209" w="165" h="120" measuredW="246" measuredH="177" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <src>./assets/layout_14.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="22" y="91" w="163" h="118" measuredW="246" measuredH="177" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <src>./assets/layout_21.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Arrow" x="113" y="267" w="322" h="10" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="57" y="235" w="-1" h="-1" measuredW="64" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DataBaseIcon%7Cxlarge</icon>
+        <text>%u670D%u52A1%u5668</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="512" y="466" w="-1" h="-1" measuredW="54" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%u5BA2%u6237%u7AEF</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
