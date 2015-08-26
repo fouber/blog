@@ -4,7 +4,9 @@
 
 > 或许现在很多企业和团队尚未重视前端工程，或许前端工程在很多人眼里还只是“构建工具”的代名词，又或许未来前端领域的变革使得一切工程问题从根本上得到解决。不管怎样，我只是希望当下能认真的记录自己在前端工程领域的所见所想，与正在经历前端工程化改进，并被此过程困扰的同学交流心得。
 
-[目录](https://github.com/fouber/blog/issues)
+[欢迎一起探讨各自在前端开发中遇到的工程问题](https://github.com/fouber/blog/issues/8)
+
+目录
 
 * 个人感悟
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
@@ -20,6 +22,7 @@
     * [java版静态资源管理系统示例](https://github.com/fouber/fis-java-jsp)
     * [静态资源缓存控制演示项目](https://github.com/fouber/static-resource-digest-project)
 * 业界实践
+    * [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html) by 美团 
     * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
     * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html) by [@三水清](http://weibo.com/206103888)
     * 前端xss防火墙系列文章 by [@ＥtherＤream](https://github.com/zjcqoo)
@@ -30,11 +33,8 @@
         * [整装待发](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-5)
 * 经典图书
     * 《[High Performance Web Sites](http://book.douban.com/subject/2084131/)》（[高性能网站建设指南](http://book.douban.com/subject/3132277/)）
-        ![](./assets/hpws.png)
     * 《[Even Faster Web Sites](http://book.douban.com/subject/3686503/)》（[高性能网站建设进阶指南](http://book.douban.com/subject/4719162/)）
-        ![](./assets/efws.png)
     * 《[High Performance Browser Networking](http://book.douban.com/subject/21866396/)》（[Web性能权威指南](http://book.douban.com/subject/25856314/)）
-        ![](./assets/hpbn.png)
 * 经典文章
     * [Best Practices for Speeding Up Your Web Site（雅虎35条）](https://developer.yahoo.com/performance/rules.html)
     * [Facebook静态网页资源的管理和优化](http://v.youku.com/v_show/id_XMjI5OTUxMjE2.html) [[PDF](http://velocity.oreilly.com.cn/2010/ppts/VelocityChina2010Dec7StaticResource.pdf)] by [@David Wei](http://weibo.com/weixiaoliang9)
