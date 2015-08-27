@@ -16,6 +16,7 @@
     * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
     * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
     * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
+    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
 * 示例项目
     * [php版静态资源管理系统示例](https://github.com/fouber/static-resource-management-system-demo)
     * [模块化开发组合php版静态资源管理示例](https://github.com/fouber/fis-php-md.js)
@@ -23,7 +24,7 @@
     * [静态资源缓存控制演示项目](https://github.com/fouber/static-resource-digest-project)
 * 业界实践
     * [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html) by 美团 
-    * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md) by [@民工精髓](http://weibo.com/sharpmaster)
+    * [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19) by [@民工精髓](http://weibo.com/sharpmaster)
     * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html) by [@三水清](http://weibo.com/206103888)
     * 前端xss防火墙系列文章 by [@ＥtherＤream](https://github.com/zjcqoo)
         * [内联事件拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-1/)
