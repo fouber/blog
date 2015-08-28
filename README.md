@@ -25,7 +25,7 @@
 * 业界实践
     * [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html) by 美团 
     * [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19) by [@民工精髓](http://weibo.com/sharpmaster)
-    * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html) by [@三水清](http://weibo.com/206103888)
+    * [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/) by [@沈洪顺](http://weibo.com/u/1916384703)
     * 前端xss防火墙系列文章 by [@ＥtherＤream](https://github.com/zjcqoo)
         * [内联事件拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-1/)
         * [可疑模块拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-2/)
