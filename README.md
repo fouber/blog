@@ -8,7 +8,9 @@
 
 目录
 
-* 个人感悟
+* 系列专题
+    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+* 工程杂谈
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
     * [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
     * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -16,7 +18,6 @@
     * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
     * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
     * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
-    * [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
 * 示例项目
     * [php版静态资源管理系统示例](https://github.com/fouber/static-resource-management-system-demo)
     * [模块化开发组合php版静态资源管理示例](https://github.com/fouber/fis-php-md.js)
