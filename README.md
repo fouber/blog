@@ -18,6 +18,8 @@
     * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
     * [如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
     * [md5戳计算过程](https://github.com/fouber/blog/issues/5)
+* 职业发展
+    * [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
 * 示例项目
     * [php版静态资源管理系统示例](https://github.com/fouber/static-resource-management-system-demo)
     * [模块化开发组合php版静态资源管理示例](https://github.com/fouber/fis-php-md.js)
